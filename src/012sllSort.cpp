@@ -22,5 +22,5 @@ struct node {
 };
 
 void sll_012_sort(struct node *head){
-	
+
 }
